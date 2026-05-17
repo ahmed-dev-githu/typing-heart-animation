@@ -5,8 +5,8 @@ An elegant, high-performance, and fully responsive typing heart animation built 
 ---
 
 ## 🔗 Live Preview & Repository
-- **Live Demo:** [ahmedth.netlify.app](https://ahmedth.netlify.app) *(Or add your hosted link here)*
-- **GitHub Repository:** [View Source Code](https://github.com/)
+- **My Personal Website:** [ahmedth.netlify.app](https://ahmedth.netlify.app)
+- **GitHub Repository:** [View Source Code]([[https://github.com/](https://github.com/ahmed-dev-githu/typing-heart-animation.git)](https://github.com/ahmed-dev-githu/typing-heart-animation.git))
 
 ---
 
