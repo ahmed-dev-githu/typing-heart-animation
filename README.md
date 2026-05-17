@@ -34,4 +34,4 @@ Since this project is pure vanilla frontend, you don't need any complex installa
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/typing-heart-animation.git](https://github.com/yourusername/typing-heart-animation.git)
+   git clone https://github.com/ahmed-dev-githu/typing-heart-animation.git
